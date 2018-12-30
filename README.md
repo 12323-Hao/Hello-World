@@ -1,2 +1,2 @@
 # Hello-World
-plain old hello world file.
+plain old Hello World! I am a computer.
